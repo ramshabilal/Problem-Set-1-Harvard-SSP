@@ -1,11 +1,11 @@
 Problem 1  
 Declare, define and initialize variables to represent the following:  
- age of a cat  
- grade average of a student   
- name of a football team  
- number of jelly beans in a hot tub  
- whether or not to eat pizza  
- the maximum number of people allowed in a specific night club  
+1. age of a cat  
+2. grade average of a student   
+3. name of a football team  
+4. number of jelly beans in a hot tub  
+5. whether or not to eat pizza  
+6. the maximum number of people allowed in a specific night club  
 
 Problem 2  
 Ask the user for the following information: first name, last name, street number, street name. street   
